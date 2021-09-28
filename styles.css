@@ -1,0 +1,114 @@
+.logo-cine {
+  width: 600px;
+}
+.content-logo{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+@font-face {
+  font-family: "Halloween Too, Roboto";
+  src: local("Halloween Too, Roboto");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+
+
+
+
+
+}
+
+.text {
+  color: #CFCFCE;
+  width: 500px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .container {
+
+
+
+
+  }
+}
+
+.text-style{
+  font-family: Roboto;
+  text-align: justify;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.titulos{
+  font-family: "Halloween Too";
+  letter-spacing: 5px;
+}
+
+#grad{
+  background-image: radial-gradient(#C05D28, #A64223);
+
+
+}
+
+.button {
+  background-color: #000000;
+  border: none;
+  border-radius: 10px;
+  color: #CFCFCE;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-family: "Halloween Too";
+  letter-spacing: 3px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+a {
+  color: #CFCFCE;
+  text-decoration: none;
+}
+
+
+/*.flashit{*/
+/*  -webkit-animation: flash ease-out 10s infinite;*/
+/*  -moz-animation: flash ease-out 7s infinite;*/
+/*  animation: flash ease-out 7s infinite;*/
+/*  animation-delay: 5s;*/
+/*}*/
+
+/*@-webkit-keyframes flash {*/
+/*  from { opacity: 0; }*/
+/*  92% { opacity: 0; }*/
+/*  93% { opacity: 0.6; }*/
+/*  94% { opacity: 0.2; }*/
+/*  96% { opacity: 0.9; }*/
+/*  to { opacity: 0; }*/
+/*}*/
+
+/*@keyframes flash {*/
+/*  from { opacity: 0; }*/
+/*  92% { opacity: 0; }*/
+/*  93% { opacity: 0.6; }*/
+/*  94% { opacity: 0.2; }*/
+/*  96% { opacity: 1; }*/
+/*  to { opacity: 0; }*/
+/*}*/
+
+
+
+
+
+
