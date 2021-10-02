@@ -32,26 +32,22 @@
   width: 500px;
 }
 
-
 @media only screen and (max-width: 1000px) {
   .container {
-
-
-
-
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
 .text-style{
   font-family: Roboto;
-  text-align: justify;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 
 .titulos{
   font-family: "Halloween Too";
   letter-spacing: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 #grad{
@@ -80,6 +76,8 @@ a {
   color: #CFCFCE;
   text-decoration: none;
 }
+
+
 
 
 /*.flashit{*/
